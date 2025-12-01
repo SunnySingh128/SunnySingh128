@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SunnySingh128
 
-- 🌱 I’m currently learning javascript and react.
+- 🌱I am a mern stack developer
+- 
 
 - 📫 How to reach me sunnysingh14092005@gmail.com
 
