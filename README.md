@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sunny Singh</h1>
-<h3 align="center">Full-Stack Developer | Backend Engineer | AI Enthusiast | DevOps Learner</h3>
+
+<h3 align="center">
+Full-Stack Developer | Backend Engineer | Problem Solver | AI Enthusiast | DevOps Learner
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Engineer;Building+AI-Powered+Applications;React+%7C+Node.js+%7C+MongoDB;Docker+%7C+AWS+%7C+SQL;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Backend+Engineer;Problem+Solver;Building+AI-Powered+Applications;React+%7C+Node.js+%7C+MongoDB;Docker+%7C+AWS+%7C+SQL;200%2B+DSA+Problems+Solved;Always+Learning+Something+New" />
 </p>
 
 ---
@@ -123,8 +126,4 @@ Agriculture support platform helping farmers with useful digital resources.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SunnySingh128&theme=tokyonight&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
