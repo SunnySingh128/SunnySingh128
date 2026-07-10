@@ -1,21 +1,125 @@
 <h1 align="center">Hi 👋, I'm Sunny Singh</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">Full-Stack Developer | Backend Engineer | AI Enthusiast | DevOps Learner</h3>
 
-- 🔭 I’m currently working on **Mindwell**
-
-- 🌱 I’m currently learning **docker,aws**
-
-- 👯 I’m looking to collaborate on **Fullstack Application**
-
-- 💬 Ask me about **Mern stack developer**
-
-- 📫 How to reach me **sunnysingh14092005@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/sunny-singh-94a6352b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/sunny-singh-94a6352b4" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/sunnysingh14092005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sunnysingh14092005/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Engineer;Building+AI-Powered+Applications;React+%7C+Node.js+%7C+MongoDB;Docker+%7C+AWS+%7C+SQL;Always+Learning+Something+New" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me
+
+- 💻 Full-Stack Developer passionate about building scalable web applications
+- 🔥 Currently building **Mindwell**
+- 🌱 Learning **Docker, AWS, DevOps, System Design & Cloud**
+- 🤖 Exploring **AI Integration**, LLM APIs and intelligent applications
+- ⚡ Strong interest in **Backend Development & Database Design**
+- 📚 Consistently solving **Data Structures & Algorithms**
+- 👨‍💻 Open to collaborating on **Open Source** and impactful Full-Stack projects
+- 🎯 Goal: Become a Software Engineer building products used by millions
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,js,html,css,sql" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Mindwell
+AI-powered mental wellness platform focused on personalized user experiences.
+
+### 🛍️ AI ERP Assistant
+Natural Language to SQL system with AI-generated explanations, Supabase integration, semantic product search and analytics.
+
+### 🏥 Medicure
+AI-powered healthcare web application built using the MERN Stack with authentication, AI assistance and modern UI.
+
+### ✈️ Tripo
+Smart trip planning platform with expense splitting, group management and visualization.
+
+### 🌾 Kisan
+Agriculture support platform helping farmers with useful digital resources.
+
+---
+
+## 📈 Currently Learning
+
+- ☁️ AWS Cloud
+- 🐳 Docker
+- ⚙️ CI/CD
+- ☸️ Kubernetes
+- 🏗 System Design
+- 🔥 Advanced Backend Development
+
+---
+
+## 📊 Coding Profiles
+
+<p align="left">
+<a href="https://leetcode.com/u/sunnysingh14092005/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/sunny-singh-94a6352b4" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
+
+---
+
+## 📫 Reach Me
+
+📧 **sunnysingh14092005@gmail.com**
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy turning complex problems into simple, scalable software while continuously learning new technologies.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
